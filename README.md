@@ -1,4 +1,4 @@
 # Nebet
 Nebet and the Murder of the Priestess
 
-A DAAD adventure for the Sinclair ZX Spectrum 48k
+A DAAD adventure for the Sinclair ZX Spectrum 48k and Commodore 64
